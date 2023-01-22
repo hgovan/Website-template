@@ -19,3 +19,10 @@ Documentation to make note of best practices for making websites
 ## Boarders
 - https://css-generators.com/custom-borders/
 - https://freefrontend.com/css-border-examples/
+
+## Colors
+### hex to Tailwinds
+https://tailwind-color-finder.vercel.app/
+
+### Blending
+https://hypercolor.dev/
