@@ -7,15 +7,15 @@ Documentation to make note of best practices for making websites
 
 
 ## Background styling
-https://app.haikei.app/
+- https://app.haikei.app/
 
 ## Navbar
-https://www.youtube.com/watch?v=biOMz4puGt8
+- https://www.youtube.com/watch?v=biOMz4puGt8
 
 ## Icons
-https://fontawesome.com/icons
-https://youtu.be/UTHgr6NLeEw
+- https://fontawesome.com/icons
+- https://youtu.be/UTHgr6NLeEw
 
 ## Boarders
-https://css-generators.com/custom-borders/
-https://freefrontend.com/css-border-examples/
+- https://css-generators.com/custom-borders/
+- https://freefrontend.com/css-border-examples/
