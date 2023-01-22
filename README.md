@@ -3,6 +3,7 @@ Documentation to make note of best practices for making websites
 
 ## Free layouts
 https://layoutsfortailwind.lalokalabs.dev/ui/overlay-loading
+https://flowbite.com/docs/components/
 
 
 ## Background styling
