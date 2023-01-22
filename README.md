@@ -1,4 +1,11 @@
 # Website-template
 Documentation to make note of best practices for making websites
 
-this is a test
+## Background styling
+https://app.haikei.app/
+
+## Navbar
+https://www.youtube.com/watch?v=biOMz4puGt8
+
+## Icons
+https://fontawesome.com/icons
