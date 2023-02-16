@@ -8,6 +8,7 @@ Documentation to make note of best practices for making websites
 
 ## Background styling
 - https://app.haikei.app/
+- https://coolbackgrounds.io/
 
 ## Navbar
 - https://www.youtube.com/watch?v=biOMz4puGt8
